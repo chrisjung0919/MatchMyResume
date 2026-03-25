@@ -32,7 +32,7 @@ A full-stack AI web application that analyzes resumes against job descriptions a
 ---
 
 ## 🎥 Demo
-(Add screenshot here later)
+![MatchMyResume Web Demo](flashcard-desktop-application%20recording.gif)
 
 ---
 
