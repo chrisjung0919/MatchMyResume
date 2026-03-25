@@ -3,7 +3,7 @@
 A full-stack AI web application that analyzes resumes against job descriptions and provides ATS-style scoring, feedback, and improvement suggestions.
 
 ## 🌐 Live Demo
-https://matchmyresume.netlify.app/
+matchmyresumefree.netlify.app/
 
 ---
 
