@@ -31,7 +31,7 @@ A full-stack AI web application that analyzes resumes against job descriptions a
 
 ---
 
-## 📸 Preview
+## 🎥 Demo
 (Add screenshot here later)
 
 ---
