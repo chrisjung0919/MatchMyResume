@@ -58,3 +58,10 @@ open index.html
 - Job link parsing (auto-fetch job description)
 - Improved AI feedback using LLMs
 - User authentication & saved results
+
+---
+
+## 👨‍💻 Author
+
+**Chris Jung**   
+Computer Science @ University of California, Riverside
