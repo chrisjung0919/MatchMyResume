@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# Match My Resume - AI Resume Analyzer
 
 A full-stack AI web application that analyzes resumes against job descriptions and provides ATS-style scoring, feedback, and improvement suggestions.
 
