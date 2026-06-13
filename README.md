@@ -64,4 +64,4 @@ open index.html
 ## 👨‍💻 Author
 
 **Chris Jung**   
-Computer Science @ University of California, Riverside
+Applied Math @ UC Berkeley
