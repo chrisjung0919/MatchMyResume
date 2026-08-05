@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pdfplumber
+python-multipart
+scikit-learn
+google-genai
